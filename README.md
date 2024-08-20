@@ -18,7 +18,7 @@ Increase customer acquisition by 15% and customer loyalty by 10% over the next 3
 
 ### **Data Description**
 
-The dataset includes 1,898 food orders placed by 1,200 unique customers in New York City. These orders were made on weekdays, weekends, or both, spanning 14 different cuisine types and involving 178 restaurants.
+The dataset includes 1,898 food orders placed by 1,200 unique customers in New York City. These orders were made on weekdays, weekends, or both, covering 14 different cuisine types and involving 178 restaurants.
 
 ### **Data Dictionary**
 
