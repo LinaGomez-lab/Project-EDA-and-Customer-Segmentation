@@ -63,3 +63,9 @@ To conduct a segmentation and targeting analysis, we need to create a customer d
 5. **Conclusion**
 
   The majority of revenue comes from Group 1, making it essential to retain and engage this segment. Group 2 offers significant growth opportunities with targeted strategies, while Group 3 could be developed by addressing delivery times and offering tailored promotions. Overall, expanding quality partnerships, optimizing delivery times, and leveraging loyalty programs are key to driving sustained revenue growth.
+
+
+  ## **Business Report 📰:**
+A dashboard summarizing the main results can be found at the following link:
+
+### [Business Report](https://infograph.venngage.com/pl/Ym074wQ9ZQ)
