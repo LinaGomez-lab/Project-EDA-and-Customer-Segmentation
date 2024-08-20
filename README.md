@@ -16,11 +16,11 @@ The food aggregator company has stored data on various orders made by registered
 Increase customer acquisition by 15% and customer loyalty by 10% over the next 3 months by implementing targeted marketing campaigns and launching a loyalty program, to contribute to overall revenue growth.
 
 
-### **Data Description**
+### **Data Description:**
 
 The dataset includes 1,898 food orders placed by 1,200 unique customers in New York City. These orders were made on weekdays, weekends, or both, covering 14 different cuisine types and involving 178 restaurants.
 
-#### **Data Dictionary**
+#### **Data Dictionary:**
 
 * order_id: Unique ID of the order
 * customer_id: ID of the customer who ordered the food
