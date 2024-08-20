@@ -1,4 +1,3 @@
-# **EDA and Customer Segmentation Analysis**
 ## **Project Description**
 
 ### **Context:**
