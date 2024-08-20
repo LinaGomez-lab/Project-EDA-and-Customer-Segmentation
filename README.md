@@ -35,7 +35,7 @@ The dataset includes 1,898 food orders placed by 1,200 unique customers in New Y
 ### **Data Analysis Strategy:**
 To conduct a segmentation and targeting analysis, we need to create a customer dataset that identifies key variables such as consumer consumption patterns, frequency of orders, and the top 10 or top 5 cuisine types and restaurants. Additionally, we will analyze how these factors relate to reported food preparation times, delivery times, and customer ratings.
 
-# Summary of Results and Analysis 📈:
+## Summary of Results and Analysis 📈:
 
 1. **Market Overview**
 
@@ -66,6 +66,4 @@ To conduct a segmentation and targeting analysis, we need to create a customer d
 
 
   ## **Business Report 📰:**
-A dashboard summarizing the main results can be found at the following link:
-
-### [Business Report](https://infograph.venngage.com/pl/Ym074wQ9ZQ)
+A dashboard summarizing the main results can be found at the following link: ## [Business Report](https://infograph.venngage.com/pl/Ym074wQ9ZQ)
