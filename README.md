@@ -1,3 +1,4 @@
+# **EDA and Customer Segmentation Analysis**
 ## **Project Description**
 
 ### **Context:**
@@ -66,4 +67,4 @@ To conduct a segmentation and targeting analysis, we need to create a customer d
 
 
   ## **Business Report 📰:**
-A dashboard summarizing the main results can be found at the following link: ## [Business Report](https://infograph.venngage.com/pl/Ym074wQ9ZQ)
+A dashboard summarizing the main results can be found at the following link: [Business Report](https://infograph.venngage.com/pl/Ym074wQ9ZQ)
