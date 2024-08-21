@@ -10,10 +10,10 @@ Through the app, restaurants receive direct online orders from customers. Upon o
 
 The food aggregator company has stored data on various orders made by registered customers through their online portal. They aim to analyze this data to understand restaurant demand better and enhance the customer experience.
 
-"In this project, we are employing market segmentation strategies to identify the most effective methods for attracting new customers and orders, and driving business growth."
+In this project, we are employing market segmentation strategies to identify the most effective methods for attracting new customers and orders, and driving business growth.
 
 ### **Business Goal:**
-Increase customer acquisition by 15% and customer loyalty by 10% over the next 3 months by implementing targeted marketing campaigns and launching a loyalty program, to contribute to overall revenue growth.
+"Increase customer acquisition by 15% and customer loyalty by 10% over the next 3 months by implementing targeted marketing campaigns and launching a loyalty program, to contribute to overall revenue growth".
 
 
 ### **Data Description:**
