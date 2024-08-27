@@ -35,6 +35,9 @@ The dataset includes 1,898 food orders placed by 1,200 unique customers in New Y
 ### **Data Analysis Strategy:**
 To conduct a segmentation and targeting analysis, we need to create a customer dataset that identifies key variables such as consumer consumption patterns, frequency of orders, and the top 10 or top 5 cuisine types and restaurants. Additionally, we will analyze how these factors relate to reported food preparation times, delivery times, and customer ratings.
 
+**What didn't work**:
+* Applying various clustering techniques did not significantly improve the customer segmentation results. Given the nature and availability of the data, focusing on customer behavior proved to be the most effective strategy.
+
 ## Summary of Results and Analysis 📈:
 
 1. **Market Overview**
@@ -46,7 +49,7 @@ To conduct a segmentation and targeting analysis, we need to create a customer d
 
     * Group 1 (Regular Weekend & Weekday Buyers - 57%): This group is the primary revenue driver and shows stable preferences for specific cuisines and restaurants. They contribute significantly to revenue and are crucial to focus on for retention strategies.
     * Group 2 (Weekend One-Timers - 29%): This group has growth potential. They are primarily weekend buyers and could be incentivized to increase their order frequency or spend through targeted marketing and loyalty programs.
-    * Group 3 (Weekday Singles - 12%): This segment presents challenges due to lower engagement but offers potential for growth. Addressing weekday delivery times and offering tailored promotions could help in expanding this segment's market presence.
+    * Group 3 (Weekday Singles - 12%): This segment presents challenges due to lower engagement but offers growth potential. Addressing weekday delivery times and offering tailored promotions could help in expanding this segment's market presence.
 
 3. **Revenue Drivers**
 
@@ -56,7 +59,7 @@ To conduct a segmentation and targeting analysis, we need to create a customer d
 4. **Strategic Recommendations**
 
     * Loyalty Programs: Focus on groups 1 and 2 with loyalty programs designed to increase orders of $20 or more. Tailored rewards and incentives can boost repeat business and average order value.
-    * Delivery Time Optimization: Improve weekday delivery times to enhance customer satisfaction, particularly for Group 3, which has potential for growth with better service.
+    * Delivery Time Optimization: Improve weekday delivery times to enhance customer satisfaction, particularly for Group 3, which has the potential for growth with better service.
     * Expansion of Quality Partnerships: Increase the number of high-quality restaurant partners to appeal to diverse customer preferences and drive more orders.
     * Attraction Campaigns: Develop targeted marketing campaigns to attract new customers across all segments, with specific promotions to engage Group 2 and Group 3 effectively.
 
